@@ -6,11 +6,6 @@ import {
   useLocation,
 } from "react-router-dom";
 import HomeCustomer from "./pages/HomeCustomer";
-import Cart from "./pages/Cart";
-import AdminDashboard from "./pages/AdminDashboard";
-import SellerDashboard from "./pages/SellerDashboard";
-import SellerSales from "./pages/SellerSales";
-import Login from "./pages/Login";
 import Registration from "./pages/Registration";
 import DropDownMenu from "./pages/DropDownMenu";
 import BenefitsOfSelling from "./pages/BenefitsOfSelling";
@@ -19,6 +14,11 @@ import ProductDetails1 from "./pages/ProductDetails";
 import AddressSelection from "./pages/AddressSelection";
 import Payment from "./pages/Payment";
 import Search from "./pages/Search";
+import Cart from "./pages/Cart";
+import AdminDashboard from "./pages/AdminDashboard";
+import SellerDashboard from "./pages/SellerDashboard";
+import SellerSales from "./pages/SellerSales";
+import Login from "./pages/Login";
 
 function App() {
   const action = useNavigationType();
@@ -37,26 +37,6 @@ function App() {
 
     switch (pathname) {
       case "/":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/cart":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/admin-dashboard":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/seller-dashboard":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/seller-sales":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/login":
         title = "";
         metaDescription = "";
         break;
@@ -92,6 +72,26 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/cart":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/admin-dashboard":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/seller-dashboard":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/seller-sales":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/login":
+        title = "";
+        metaDescription = "";
+        break;
     }
 
     if (title) {
@@ -111,11 +111,6 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<HomeCustomer />} />
-      <Route path="/cart" element={<Cart />} />
-      <Route path="/admin-dashboard" element={<AdminDashboard />} />
-      <Route path="/seller-dashboard" element={<SellerDashboard />} />
-      <Route path="/seller-sales" element={<SellerSales />} />
-      <Route path="/login" element={<Login />} />
       <Route path="/registration" element={<Registration />} />
       <Route path="/drop-down-menu" element={<DropDownMenu />} />
       <Route path="/benefits-of-selling" element={<BenefitsOfSelling />} />
@@ -124,6 +119,11 @@ function App() {
       <Route path="/address-selection" element={<AddressSelection />} />
       <Route path="/payment" element={<Payment />} />
       <Route path="/search" element={<Search />} />
+      <Route path="/cart" element={<Cart />} />
+      <Route path="/admin-dashboard" element={<AdminDashboard />} />
+      <Route path="/seller-dashboard" element={<SellerDashboard />} />
+      <Route path="/seller-sales" element={<SellerSales />} />
+      <Route path="/login" element={<Login />} />
     </Routes>
   );
 }

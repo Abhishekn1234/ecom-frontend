@@ -1,0 +1,52 @@
+.frame-child33 {
+  height: 65px;
+  width: 474px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-orangered-100);
+  border: 1px solid var(--color-orangered-100);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.sign-up {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 11px;
+  font-weight: 600;
+  font-family: var(--sm-medium);
+  color: var(--neutral-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 2;
+}
+.frame-button,
+.frame-wrapper4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-button {
+  cursor: pointer;
+  border: 1px solid var(--color-orangered-100);
+  padding: var(--padding-9xl) var(--padding-xl) var(--padding-3xl);
+  background-color: var(--color-orangered-100);
+  flex: 1;
+  border-radius: var(--br-3xs);
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-button:hover {
+  background-color: var(--color-orangered-200);
+  border: 1px solid var(--color-orangered-200);
+  box-sizing: border-box;
+}
+.frame-wrapper4 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}

@@ -9,7 +9,7 @@ const AddressSelection = () => {
       <div className="address-selection-child" />
       <div className="address-selection-item" />
       <div className="adam-johns-house-container">
-        <p className="adam-johns6">Adam Johns</p>
+        <p className="adam-johns5">Adam Johns</p>
         <p className="house-name-place">
           House Name, Place, District, State, 682352, Country
         </p>
@@ -30,7 +30,7 @@ const AddressSelection = () => {
       <div className="ellipse-div" />
       <div className="address-selection-child1" />
       <div className="adam-johns-house-container1">
-        <p className="adam-johns7">Adam Johns</p>
+        <p className="adam-johns6">Adam Johns</p>
         <p className="house-name-place1">
           House Name, Place, District, State, 682352, Country
         </p>
@@ -42,12 +42,12 @@ const AddressSelection = () => {
         <span>Add new address</span>
       </div>
       <div className="div35">+</div>
-      <div className="rectangle-parent59">
+      <div className="rectangle-parent53">
         <div className="group-child215" />
         <div className="edit">Edit</div>
       </div>
       <div className="order-summary">Order Summary</div>
-      <div className="rectangle-parent60">
+      <div className="rectangle-parent54">
         <div className="group-child216" />
         <div className="original-price">Original Price $ 3.20</div>
         <div className="offer-price">Offer Price $ 2.50</div>
@@ -75,20 +75,20 @@ const AddressSelection = () => {
       <div className="address-selection-child3" />
       <div className="screenshot-94-removebg-previ-container">
         <img
-          className="screenshot-94-removebg-previ-icon4"
+          className="screenshot-94-removebg-previ-icon3"
           alt=""
           src="/screenshot--94-removebgpreview-1@2x.png"
         />
         <img className="logo-1-icon2" alt="" src="/logo-1@2x.png" />
       </div>
-      <div className="rectangle-parent61">
+      <div className="rectangle-parent55">
         <div className="group-child221" />
-        <div className="search5">Search...</div>
-        <img className="vector-icon6" alt="" src="/vector-2.svg" />
+        <div className="search2">Search...</div>
+        <img className="vector-icon5" alt="" src="/vector-2.svg" />
       </div>
       <div className="address-selection-child4" />
       <div className="parent1">
-        <img className="icon5" alt="" src="/-1.svg" />
+        <img className="icon2" alt="" src="/-1.svg" />
         <div className="account2">Account</div>
       </div>
       <div className="cart-shopping-svgrepo-com-1-container">
@@ -97,49 +97,49 @@ const AddressSelection = () => {
           alt=""
           src="/cartshoppingsvgrepocom-1.svg"
         />
-        <div className="cart3">Cart</div>
+        <div className="cart2">Cart</div>
       </div>
-      <div className="rectangle-parent62">
+      <div className="rectangle-parent56">
         <div className="group-child222" />
         <div className="all2">All</div>
       </div>
-      <div className="rectangle-parent63">
+      <div className="rectangle-parent57">
         <div className="group-child223" />
         <div className="masonry3">Masonry</div>
       </div>
-      <div className="rectangle-parent64">
+      <div className="rectangle-parent58">
         <div className="group-child224" />
         <div className="concrete-ready3">Concrete ready</div>
       </div>
-      <div className="rectangle-parent65">
+      <div className="rectangle-parent59">
         <div className="group-child225" />
         <div className="plaster-mortar3">{`Plaster & Mortar`}</div>
       </div>
-      <div className="rectangle-parent66">
+      <div className="rectangle-parent60">
         <div className="group-child226" />
         <div className="drywall-gypsum3">{`Drywall & Gypsum`}</div>
       </div>
-      <div className="rectangle-parent67">
+      <div className="rectangle-parent61">
         <div className="group-child227" />
         <div className="landscape3">Landscape</div>
       </div>
-      <div className="rectangle-parent68">
+      <div className="rectangle-parent62">
         <div className="group-child228" />
         <div className="steel-scaffolding3">Steel Scaffolding</div>
       </div>
-      <div className="rectangle-parent69">
+      <div className="rectangle-parent63">
         <div className="group-child229" />
         <div className="chemicals3">Chemicals</div>
       </div>
-      <div className="rectangle-parent70">
+      <div className="rectangle-parent64">
         <div className="group-child230" />
         <div className="cement-sand3">Cement / Sand</div>
       </div>
-      <div className="rectangle-parent71">
+      <div className="rectangle-parent65">
         <div className="group-child231" />
         <div className="white-wood3">White-wood</div>
       </div>
-      <div className="rectangle-parent72">
+      <div className="rectangle-parent66">
         <div className="group-child232" />
         <div className="precast3">Precast</div>
       </div>

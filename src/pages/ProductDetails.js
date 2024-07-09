@@ -1,6 +1,6 @@
 import GroupComponent from "../components/GroupComponent";
-import GroupComponent4 from "../components/GroupComponent4";
-import GroupComponent3 from "../components/GroupComponent3";
+import GroupComponent4 from "../components/GroupComponent41";
+import GroupComponent3 from "../components/GroupComponent31";
 import "./ProductDetails.css";
 
 const ProductDetails1 = () => {
@@ -42,7 +42,7 @@ const ProductDetails1 = () => {
       <div className="qty">Qty</div>
       <div className="div25">$3.20</div>
       <div className="div26">-25%</div>
-      <div className="rectangle-parent46">
+      <div className="rectangle-parent40">
         <div className="group-child202" />
         <div className="most-sold">Most sold</div>
       </div>
@@ -59,7 +59,7 @@ const ProductDetails1 = () => {
         </p>
         <p className="magna-dictum">magna dictum.</p>
       </div>
-      <img className="vector-icon4" alt="" src="/vector-1.svg" />
+      <img className="vector-icon3" alt="" src="/vector-1.svg" />
       <img
         className="location-pin-svgrepo-com-1-icon"
         alt=""
@@ -124,7 +124,7 @@ const ProductDetails1 = () => {
       <div className="product-details-child16" />
       <div className="lowest-rating">Lowest Rating</div>
       <div className="div28">5.0</div>
-      <div className="adam-johns1">Adam Johns</div>
+      <div className="adam-johns">Adam Johns</div>
       <img className="product-details-child17" alt="" src="/star-icons1.svg" />
       <img className="product-details-child18" alt="" src="/star-23.svg" />
       <img className="product-details-child19" alt="" src="/star-24.svg" />
@@ -139,7 +139,7 @@ const ProductDetails1 = () => {
       </div>
       <div className="product-details-child22" />
       <div className="div29">5.0</div>
-      <div className="adam-johns2">Adam Johns</div>
+      <div className="adam-johns1">Adam Johns</div>
       <img className="product-details-child23" alt="" src="/star-icons1.svg" />
       <img className="product-details-child24" alt="" src="/star-23.svg" />
       <img className="product-details-child25" alt="" src="/star-24.svg" />
@@ -154,7 +154,7 @@ const ProductDetails1 = () => {
       </div>
       <div className="product-details-child28" />
       <div className="div30">5.0</div>
-      <div className="adam-johns3">Adam Johns</div>
+      <div className="adam-johns2">Adam Johns</div>
       <img className="product-details-child29" alt="" src="/star-icons1.svg" />
       <img className="product-details-child30" alt="" src="/star-23.svg" />
       <img className="product-details-child31" alt="" src="/star-24.svg" />
@@ -169,7 +169,7 @@ const ProductDetails1 = () => {
       </div>
       <div className="product-details-child34" />
       <div className="div31">5.0</div>
-      <div className="adam-johns4">Adam Johns</div>
+      <div className="adam-johns3">Adam Johns</div>
       <img className="product-details-child35" alt="" src="/star-icons1.svg" />
       <img className="product-details-child36" alt="" src="/star-23.svg" />
       <img className="product-details-child37" alt="" src="/star-24.svg" />
@@ -185,7 +185,7 @@ const ProductDetails1 = () => {
       <div className="div32">{`>>`}</div>
       <div className="product-details-child40" />
       <div className="div33">5.0</div>
-      <div className="adam-johns5">Adam Johns</div>
+      <div className="adam-johns4">Adam Johns</div>
       <img className="product-details-child41" alt="" src="/star-icons1.svg" />
       <img className="product-details-child42" alt="" src="/star-23.svg" />
       <img className="product-details-child43" alt="" src="/star-24.svg" />
@@ -205,20 +205,20 @@ const ProductDetails1 = () => {
       <div className="product-details-child46" />
       <div className="screenshot-94-removebg-previ-group">
         <img
-          className="screenshot-94-removebg-previ-icon3"
+          className="screenshot-94-removebg-previ-icon2"
           alt=""
           src="/screenshot--94-removebgpreview-1@2x.png"
         />
         <img className="logo-1-icon1" alt="" src="/logo-1@2x.png" />
       </div>
-      <div className="rectangle-parent47">
+      <div className="rectangle-parent41">
         <div className="group-child203" />
-        <div className="search4">Search...</div>
-        <img className="vector-icon5" alt="" src="/vector-2.svg" />
+        <div className="search1">Search...</div>
+        <img className="vector-icon4" alt="" src="/vector-2.svg" />
       </div>
       <div className="product-details-child47" />
       <div className="container">
-        <img className="icon4" alt="" src="/-1.svg" />
+        <img className="icon1" alt="" src="/-1.svg" />
         <div className="account1">Account</div>
       </div>
       <div className="cart-shopping-svgrepo-com-1-group">
@@ -227,49 +227,49 @@ const ProductDetails1 = () => {
           alt=""
           src="/cartshoppingsvgrepocom-1.svg"
         />
-        <div className="cart2">Cart</div>
+        <div className="cart1">Cart</div>
       </div>
-      <div className="rectangle-parent48">
+      <div className="rectangle-parent42">
         <div className="group-child204" />
         <div className="all1">All</div>
       </div>
-      <div className="rectangle-parent49">
+      <div className="rectangle-parent43">
         <div className="group-child205" />
         <div className="masonry2">Masonry</div>
       </div>
-      <div className="rectangle-parent50">
+      <div className="rectangle-parent44">
         <div className="group-child206" />
         <div className="concrete-ready2">Concrete ready</div>
       </div>
-      <div className="rectangle-parent51">
+      <div className="rectangle-parent45">
         <div className="group-child207" />
         <div className="plaster-mortar2">{`Plaster & Mortar`}</div>
       </div>
-      <div className="rectangle-parent52">
+      <div className="rectangle-parent46">
         <div className="group-child208" />
         <div className="drywall-gypsum2">{`Drywall & Gypsum`}</div>
       </div>
-      <div className="rectangle-parent53">
+      <div className="rectangle-parent47">
         <div className="group-child209" />
         <div className="landscape2">Landscape</div>
       </div>
-      <div className="rectangle-parent54">
+      <div className="rectangle-parent48">
         <div className="group-child210" />
         <div className="steel-scaffolding2">Steel Scaffolding</div>
       </div>
-      <div className="rectangle-parent55">
+      <div className="rectangle-parent49">
         <div className="group-child211" />
         <div className="chemicals2">Chemicals</div>
       </div>
-      <div className="rectangle-parent56">
+      <div className="rectangle-parent50">
         <div className="group-child212" />
         <div className="cement-sand2">Cement / Sand</div>
       </div>
-      <div className="rectangle-parent57">
+      <div className="rectangle-parent51">
         <div className="group-child213" />
         <div className="white-wood2">White-wood</div>
       </div>
-      <div className="rectangle-parent58">
+      <div className="rectangle-parent52">
         <div className="group-child214" />
         <div className="precast2">Precast</div>
       </div>

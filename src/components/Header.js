@@ -17,7 +17,7 @@ const Header = ({ className = "", cartIconAlignSelf, cartIconFlex }) => {
         <div className="container4">
           <div className="container5">
             <img
-              className="screenshot-94-removebg-previ-icon16"
+              className="screenshot-94-removebg-previ-icon11"
               loading="lazy"
               alt=""
               src="/screenshot--94-removebgpreview-1@2x.png"
@@ -25,39 +25,39 @@ const Header = ({ className = "", cartIconAlignSelf, cartIconFlex }) => {
           </div>
           <div className="container6">
             <img
-              className="logo-1-icon11"
+              className="logo-1-icon7"
               loading="lazy"
               alt=""
               src="/logo-1@2x.png"
             />
           </div>
           <div className="container7">
-            <div className="rectangle-parent150">
-              <div className="frame-child105" />
+            <div className="rectangle-parent127">
+              <div className="frame-child68" />
               <input className="search8" placeholder="Search..." type="text" />
               <div className="search-icon4">
-                <img className="icon12" alt="" src="/vector-2.svg" />
+                <img className="icon10" alt="" src="/vector-2.svg" />
               </div>
             </div>
           </div>
           <div className="container8">
             <div className="container9">
               <div className="container10">
-                <img className="icon13" loading="lazy" alt="" src="/-1.svg" />
+                <img className="icon11" loading="lazy" alt="" src="/-1.svg" />
                 <div className="container11">
-                  <a className="account8">Account</a>
+                  <a className="account7">Account</a>
                 </div>
               </div>
               <div className="container12">
                 <div className="container13">
                   <img
-                    className="cart-shopping-svgrepo-com-1-icon8"
+                    className="cart-shopping-svgrepo-com-1-icon7"
                     loading="lazy"
                     alt=""
                     src="/cartshoppingsvgrepocom-1.svg"
                   />
                   <div className="container14">
-                    <a className="cart10">Cart</a>
+                    <a className="cart8">Cart</a>
                   </div>
                 </div>
               </div>
@@ -75,49 +75,49 @@ const Header = ({ className = "", cartIconAlignSelf, cartIconFlex }) => {
       </div>
       <div className="categories1">
         <div className="categories-child" />
-        <div className="rectangle-parent151">
-          <div className="frame-child106" />
-          <a className="all6">All</a>
+        <div className="rectangle-parent128">
+          <div className="frame-child69" />
+          <a className="all5">All</a>
         </div>
-        <div className="rectangle-parent152">
-          <div className="frame-child107" />
-          <a className="masonry7">Masonry</a>
+        <div className="rectangle-parent129">
+          <div className="frame-child70" />
+          <a className="masonry6">Masonry</a>
         </div>
-        <div className="rectangle-parent153">
-          <div className="frame-child108" />
-          <a className="concrete-ready7">Concrete ready</a>
+        <div className="rectangle-parent130">
+          <div className="frame-child71" />
+          <a className="concrete-ready6">Concrete ready</a>
         </div>
-        <div className="rectangle-parent154">
-          <div className="frame-child109" />
-          <a className="plaster-mortar7">{`Plaster & Mortar`}</a>
+        <div className="rectangle-parent131">
+          <div className="frame-child72" />
+          <a className="plaster-mortar6">{`Plaster & Mortar`}</a>
         </div>
-        <div className="rectangle-parent155">
-          <div className="frame-child110" />
-          <a className="precast7">Precast</a>
+        <div className="rectangle-parent132">
+          <div className="frame-child73" />
+          <a className="precast6">Precast</a>
         </div>
-        <div className="rectangle-parent156">
-          <div className="frame-child111" />
-          <a className="drywall-gypsum7">{`Drywall & Gypsum`}</a>
+        <div className="rectangle-parent133">
+          <div className="frame-child74" />
+          <a className="drywall-gypsum6">{`Drywall & Gypsum`}</a>
         </div>
-        <div className="rectangle-parent157">
-          <div className="frame-child112" />
-          <a className="landscape7">Landscape</a>
+        <div className="rectangle-parent134">
+          <div className="frame-child75" />
+          <a className="landscape6">Landscape</a>
         </div>
-        <div className="rectangle-parent158">
-          <div className="frame-child113" />
-          <a className="steel-scaffolding7">Steel Scaffolding</a>
+        <div className="rectangle-parent135">
+          <div className="frame-child76" />
+          <a className="steel-scaffolding6">Steel Scaffolding</a>
         </div>
-        <button className="rectangle-parent159">
-          <div className="frame-child114" />
-          <a className="chemicals7">Chemicals</a>
+        <button className="rectangle-parent136">
+          <div className="frame-child77" />
+          <a className="chemicals6">Chemicals</a>
         </button>
-        <div className="rectangle-parent160">
-          <div className="frame-child115" />
-          <a className="cement-sand7">Cement / Sand</a>
+        <div className="rectangle-parent137">
+          <div className="frame-child78" />
+          <a className="cement-sand6">Cement / Sand</a>
         </div>
-        <div className="rectangle-parent161">
-          <div className="frame-child116" />
-          <a className="white-wood7">White-wood</a>
+        <div className="rectangle-parent138">
+          <div className="frame-child79" />
+          <a className="white-wood6">White-wood</a>
         </div>
       </div>
     </header>

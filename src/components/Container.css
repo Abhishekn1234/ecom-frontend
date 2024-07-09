@@ -129,7 +129,7 @@
   align-self: stretch;
   position: relative;
 }
-.frame-child118 {
+.frame-child81 {
   height: 27px;
   width: 158px;
   position: relative;
@@ -147,12 +147,12 @@
   z-index: 1;
 }
 .container41,
-.rectangle-parent163 {
+.rectangle-parent140 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.rectangle-parent163 {
+.rectangle-parent140 {
   border-radius: var(--br-8xs);
   background-color: var(--neutral-white);
   border: 1px solid var(--color-gray-200);

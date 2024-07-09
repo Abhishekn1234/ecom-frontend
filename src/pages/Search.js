@@ -1,18 +1,18 @@
-import FrameComponent6 from "../components/FrameComponent6";
+import FrameComponent6 from "../components/FrameComponent62";
 import GroupComponent from "../components/GroupComponent";
 import "./Search.css";
 
 const Search = () => {
   return (
-    <div className="search6">
-      <section className="frame-parent1">
-        <header className="rectangle-parent73">
-          <div className="frame-child18" />
+    <div className="search3">
+      <section className="frame-parent">
+        <header className="frame-header">
+          <div className="frame-child10" />
           <div className="frame-wrapper">
-            <div className="frame-parent2">
+            <div className="frame-group">
               <div className="screenshot-94-removebg-previ-wrapper">
                 <img
-                  className="screenshot-94-removebg-previ-icon5"
+                  className="screenshot-94-removebg-previ-icon4"
                   loading="lazy"
                   alt=""
                   src="/screenshot--94-removebgpreview-1@2x.png"
@@ -26,20 +26,20 @@ const Search = () => {
                   src="/logo-1@2x.png"
                 />
               </div>
-              <div className="frame-wrapper1">
-                <div className="rectangle-parent74">
-                  <div className="frame-child19" />
+              <div className="frame-container">
+                <div className="rectangle-parent67">
+                  <div className="frame-child11" />
                   <a className="cement">Cement</a>
                   <div className="vector-wrapper">
-                    <img className="vector-icon7" alt="" src="/vector-2.svg" />
+                    <img className="vector-icon6" alt="" src="/vector-2.svg" />
                   </div>
                 </div>
               </div>
-              <div className="frame-wrapper2">
-                <div className="frame-parent3">
+              <div className="frame-wrapper1">
+                <div className="frame-parent1">
                   <div className="parent2">
                     <img
-                      className="icon6"
+                      className="icon3"
                       loading="lazy"
                       alt=""
                       src="/-1.svg"
@@ -48,7 +48,7 @@ const Search = () => {
                       <a className="account3">Account</a>
                     </div>
                   </div>
-                  <div className="frame-wrapper3">
+                  <div className="frame-wrapper2">
                     <div className="cart-shopping-svgrepo-com-1-parent1">
                       <img
                         className="cart-shopping-svgrepo-com-1-icon3"
@@ -57,13 +57,13 @@ const Search = () => {
                         src="/cartshoppingsvgrepocom-1.svg"
                       />
                       <div className="cart-wrapper">
-                        <a className="cart4">Cart</a>
+                        <a className="cart3">Cart</a>
                       </div>
                     </div>
                   </div>
-                  <div className="frame-wrapper4">
+                  <div className="frame-wrapper3">
                     <img
-                      className="frame-child20"
+                      className="frame-child12"
                       loading="lazy"
                       alt=""
                       src="/group-18.svg"
@@ -73,50 +73,50 @@ const Search = () => {
               </div>
             </div>
           </div>
-          <div className="rectangle-parent75">
-            <div className="frame-child21" />
-            <div className="rectangle-parent76">
-              <div className="frame-child22" />
+          <div className="rectangle-parent68">
+            <div className="frame-child13" />
+            <div className="rectangle-parent69">
+              <div className="frame-child14" />
               <a className="all3">All</a>
             </div>
-            <div className="rectangle-parent77">
-              <div className="frame-child23" />
+            <div className="rectangle-parent70">
+              <div className="frame-child15" />
               <a className="masonry4">Masonry</a>
             </div>
-            <div className="rectangle-parent78">
-              <div className="frame-child24" />
+            <div className="rectangle-parent71">
+              <div className="frame-child16" />
               <a className="concrete-ready4">Concrete ready</a>
             </div>
-            <div className="rectangle-parent79">
-              <div className="frame-child25" />
+            <div className="rectangle-parent72">
+              <div className="frame-child17" />
               <a className="plaster-mortar4">{`Plaster & Mortar`}</a>
             </div>
-            <div className="rectangle-parent80">
-              <div className="frame-child26" />
+            <div className="rectangle-parent73">
+              <div className="frame-child18" />
               <a className="precast4">Precast</a>
             </div>
-            <div className="rectangle-parent81">
-              <div className="frame-child27" />
+            <div className="rectangle-parent74">
+              <div className="frame-child19" />
               <a className="drywall-gypsum4">{`Drywall & Gypsum`}</a>
             </div>
-            <div className="rectangle-parent82">
-              <div className="frame-child28" />
+            <div className="rectangle-parent75">
+              <div className="frame-child20" />
               <a className="landscape4">Landscape</a>
             </div>
-            <div className="rectangle-parent83">
-              <div className="frame-child29" />
+            <div className="rectangle-parent76">
+              <div className="frame-child21" />
               <a className="steel-scaffolding4">Steel Scaffolding</a>
             </div>
             <button className="group-button">
-              <div className="frame-child30" />
+              <div className="frame-child22" />
               <a className="chemicals4">Chemicals</a>
             </button>
-            <div className="rectangle-parent84">
-              <div className="frame-child31" />
+            <div className="rectangle-parent77">
+              <div className="frame-child23" />
               <a className="cement-sand4">Cement / Sand</a>
             </div>
-            <div className="rectangle-parent85">
-              <div className="frame-child32" />
+            <div className="rectangle-parent78">
+              <div className="frame-child24" />
               <a className="white-wood4">White-wood</a>
             </div>
           </div>

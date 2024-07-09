@@ -1,4 +1,4 @@
-.cement-bags-2520 {
+.cement-bags-2519 {
   width: 227.7px;
   position: relative;
   display: inline-block;
@@ -42,7 +42,7 @@
   padding: 0 var(--padding-8xs) 0 0;
   box-sizing: border-box;
 }
-.reviews29 {
+.reviews27 {
   align-self: stretch;
   position: relative;
   line-height: 10px;
@@ -120,7 +120,7 @@
   flex-direction: column;
   gap: var(--gap-9xs-4);
 }
-.product-card2,
+.product-card,
 .product-rating,
 .rating-stars {
   display: flex;
@@ -134,7 +134,7 @@
   font-size: var(--sm-medium-size);
   color: var(--color-dimgray-200);
 }
-.product-card2 {
+.product-card {
   flex: 1;
   flex-direction: column;
   gap: var(--gap-9xs-3);

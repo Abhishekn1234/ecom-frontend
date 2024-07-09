@@ -1,8 +1,8 @@
-.order-summary2 {
+.order-summary1 {
   position: relative;
   font-weight: 500;
 }
-.frame-child117 {
+.frame-child80 {
   width: 515px;
   height: 456px;
   position: relative;
@@ -21,7 +21,7 @@
   background-color: var(--color-whitesmoke-200);
   display: none;
 }
-.istockphoto-476199756-612x612-icon25 {
+.istockphoto-476199756-612x612-icon22 {
   height: 100%;
   width: 100%;
   z-index: 2;
@@ -31,7 +31,7 @@
   top: 4px;
   transform: scale(1.15);
 }
-.wrapper-istockphoto-476199756-25 {
+.wrapper-istockphoto-476199756-22 {
   height: 76px;
   width: 85px;
   position: relative;
@@ -53,13 +53,13 @@
   box-sizing: border-box;
   z-index: 1;
 }
-.cement-bags-2519,
-.qty-22 {
+.cement-bags-2518,
+.qty-21 {
   position: relative;
   font-weight: 500;
   z-index: 1;
 }
-.qty-22 {
+.qty-21 {
   font-size: var(--base-regular-size);
   font-weight: 600;
   color: var(--color-dimgray-200);
@@ -155,7 +155,7 @@
   justify-content: flex-start;
   padding: 0 var(--padding-4xs) 0 var(--padding-mid);
 }
-.delivery-charge-free2 {
+.delivery-charge-free1 {
   position: relative;
   line-height: 22px;
   font-weight: 500;
@@ -170,7 +170,7 @@
   justify-content: flex-start;
   padding: 0 var(--padding-10xs) var(--padding-10xs-5) var(--padding-mid);
 }
-.expected-delivery-232 {
+.expected-delivery-231 {
   position: relative;
   font-weight: 500;
   white-space: pre-wrap;
@@ -192,14 +192,14 @@
   box-sizing: border-box;
   z-index: 1;
 }
-.sub-total2 {
+.sub-total1 {
   position: relative;
   font-weight: 600;
   white-space: pre-wrap;
   z-index: 1;
 }
 .container25,
-.order-details1 {
+.order-details {
   align-self: stretch;
   display: flex;
   align-items: flex-start;
@@ -210,7 +210,7 @@
   padding: 0 var(--padding-9xs) 0 var(--padding-mid);
   color: var(--color);
 }
-.order-details1 {
+.order-details {
   flex-direction: column;
   gap: var(--gap-9xs-5);
   font-size: var(--font-size-lg);
@@ -224,7 +224,7 @@
   background-color: var(--color-orangered-100);
   display: none;
 }
-.confirm2 {
+.confirm1 {
   height: 16px;
   position: relative;
   font-size: var(--xl-semibold-size);
@@ -262,7 +262,7 @@
   align-self: stretch;
   padding: 0 var(--padding-12xs) 0 0;
 }
-.rectangle-parent162 {
+.rectangle-parent139 {
   align-self: stretch;
   border-radius: var(--br-mini);
   background-color: var(--neutral-white);
@@ -274,7 +274,7 @@
 }
 .container16,
 .container17,
-.rectangle-parent162 {
+.rectangle-parent139 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -301,7 +301,7 @@
   }
 }
 @media screen and (max-width: 900px) {
-  .rectangle-parent162 {
+  .rectangle-parent139 {
     gap: var(--gap-mid);
   }
   .container16 {
@@ -309,18 +309,18 @@
   }
 }
 @media screen and (max-width: 450px) {
-  .cement-bags-2519,
-  .order-summary2 {
+  .cement-bags-2518,
+  .order-summary1 {
     font-size: var(--font-size-lgi);
   }
   .container19 {
     flex-wrap: wrap;
   }
-  .confirm2 {
+  .confirm1 {
     font-size: var(--base-regular-size);
     line-height: 8px;
   }
-  .rectangle-parent162 {
+  .rectangle-parent139 {
     padding-top: var(--padding-xl);
     padding-bottom: var(--padding-xl);
     box-sizing: border-box;

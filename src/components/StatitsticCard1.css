@@ -1,0 +1,112 @@
+.fi-sr-money-icon {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.square-icon-badge {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-1300);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs);
+}
+.text7,
+.text8,
+.text9 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.text7 {
+  align-self: stretch;
+  line-height: 24px;
+  font-weight: 500;
+}
+.text8,
+.text9 {
+  font-weight: 600;
+  display: inline-block;
+}
+.text8 {
+  min-width: 115px;
+  white-space: nowrap;
+}
+.text9 {
+  line-height: 18px;
+  min-width: 32px;
+}
+.label {
+  width: 43px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-1500);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs) var(--padding-8xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--text-s-regular-size);
+  font-family: var(--text-s-regular);
+}
+.body,
+.numbers {
+  display: flex;
+  gap: var(--gap-5xs);
+}
+.numbers {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-9xl);
+  color: var(--neutral-white);
+}
+.body {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ornament-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.statitstic-card {
+  height: 166px;
+  box-shadow: var(--soft-shadow);
+  border-radius: var(--br-xs);
+  background-color: var(--neutral-black-black-500);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-21xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-base);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--base-regular-size);
+  color: var(--color-gray-1200);
+  font-family: var(--sm-medium);
+}
+@media screen and (max-width: 450px) {
+  .text8 {
+    font-size: var(--font-size-3xl);
+  }
+}

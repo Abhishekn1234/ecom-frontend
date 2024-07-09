@@ -4,8 +4,8 @@ import "./FrameComponent62.css";
 
 const FrameComponent6 = ({ className = "" }) => {
   return (
-    <div className={`frame-wrapper21 ${className}`}>
-      <div className="frame-parent20">
+    <div className={`frame-wrapper6 ${className}`}>
+      <div className="frame-parent8">
         <div className="home-cement-sand-cements-parent">
           <div className="home-cement1">{`Home > Cement / Sand > Cements `}</div>
           <div className="search-query">
@@ -17,7 +17,7 @@ const FrameComponent6 = ({ className = "" }) => {
             <div className="filter">Filter</div>
             <div className="applied-filters">
               <div className="filter-values">
-                <div className="cement-sand8">{`Cement / Sand        `}</div>
+                <div className="cement-sand7">{`Cement / Sand        `}</div>
                 <div className="applied-filter-names">-</div>
               </div>
               <div className="applied-filters-child" />
@@ -25,7 +25,7 @@ const FrameComponent6 = ({ className = "" }) => {
             <div className="checkbox-options">
               <input className="check-box-svgrepo-com-1" type="checkbox" />
               <div className="checkbox-labels">
-                <div className="cement4">Cement</div>
+                <div className="cement3">Cement</div>
               </div>
             </div>
             <div className="checkbox-options1">
@@ -56,7 +56,7 @@ const FrameComponent6 = ({ className = "" }) => {
                   </div>
                   <div className="rating-placeholders1">
                     <div className="rating-placeholders-item" />
-                    <div className="div47">$ 99.99</div>
+                    <div className="div40">$ 99.99</div>
                   </div>
                 </div>
               </div>
@@ -70,8 +70,8 @@ const FrameComponent6 = ({ className = "" }) => {
             <div className="sort-options">
               <div className="sort-order">
                 <div className="sort-dropdown">
-                  <div className="rectangle-parent164">
-                    <div className="frame-child119" />
+                  <div className="rectangle-parent141">
+                    <div className="frame-child82" />
                     <div className="sort-by-container">
                       <span>Sort by :</span>
                       <span className="popularity"> Popularity</span>
@@ -80,8 +80,8 @@ const FrameComponent6 = ({ className = "" }) => {
                       <img className="sort-icon" alt="" src="/vector-11.svg" />
                     </div>
                   </div>
-                  <div className="rectangle-parent165">
-                    <div className="frame-child120" />
+                  <div className="rectangle-parent142">
+                    <div className="frame-child83" />
                     <div className="kg-x">
                       <span className="kg">{`25 kg     `}</span>
                       <b>X</b>
@@ -90,11 +90,11 @@ const FrameComponent6 = ({ className = "" }) => {
                 </div>
                 <div className="product-grid">
                   <div className="product-grid-inner">
-                    <div className="rectangle-parent166">
-                      <div className="frame-child121" />
-                      <div className="wrapper-istockphoto-476199756-26">
+                    <div className="rectangle-parent143">
+                      <div className="frame-child84" />
+                      <div className="wrapper-istockphoto-476199756-23">
                         <img
-                          className="istockphoto-476199756-612x612-icon26"
+                          className="istockphoto-476199756-612x612-icon23"
                           loading="lazy"
                           alt=""
                           src="/istockphoto476199756612x612removebgpreview-31@2x.png"
@@ -102,11 +102,11 @@ const FrameComponent6 = ({ className = "" }) => {
                       </div>
                     </div>
                   </div>
-                  <div className="rectangle-parent167">
-                    <div className="frame-child122" />
-                    <div className="wrapper-istockphoto-476199756-27">
+                  <div className="rectangle-parent144">
+                    <div className="frame-child85" />
+                    <div className="wrapper-istockphoto-476199756-24">
                       <img
-                        className="istockphoto-476199756-612x612-icon27"
+                        className="istockphoto-476199756-612x612-icon24"
                         alt=""
                         src="/istockphoto476199756612x612removebgpreview-3-11@2x.png"
                       />
@@ -114,11 +114,11 @@ const FrameComponent6 = ({ className = "" }) => {
                   </div>
                 </div>
               </div>
-              <div className="rectangle-parent168">
-                <div className="frame-child123" />
-                <div className="wrapper-istockphoto-476199756-28">
+              <div className="rectangle-parent145">
+                <div className="frame-child86" />
+                <div className="wrapper-istockphoto-476199756-25">
                   <img
-                    className="istockphoto-476199756-612x612-icon28"
+                    className="istockphoto-476199756-612x612-icon25"
                     alt=""
                     src="/istockphoto476199756612x612removebgpreview-3-21@2x.png"
                   />
@@ -163,52 +163,52 @@ const FrameComponent6 = ({ className = "" }) => {
               </div>
             </div>
             <div className="product-cards-inner">
-              <div className="cement-bags-25-kg-group">
-                <div className="cement-bags-2521">Cement Bags (25 kg)</div>
-                <div className="frame-wrapper22">
-                  <div className="frame-parent21">
+              <div className="cement-bags-25-kg-parent">
+                <div className="cement-bags-2520">Cement Bags (25 kg)</div>
+                <div className="frame-wrapper7">
+                  <div className="frame-parent9">
                     <div className="star-parent">
                       <img
-                        className="frame-child124"
+                        className="frame-child87"
                         loading="lazy"
                         alt=""
                         src="/star-711.svg"
                       />
                       <img
-                        className="frame-child125"
+                        className="frame-child88"
                         alt=""
                         src="/star-81.svg"
                       />
                       <div className="star-wrapper">
                         <img
-                          className="frame-child126"
+                          className="frame-child89"
                           loading="lazy"
                           alt=""
                           src="/star-911.svg"
                         />
                       </div>
                       <img
-                        className="frame-child127"
+                        className="frame-child90"
                         alt=""
                         src="/star-101.svg"
                       />
                       <div className="star-container">
                         <img
-                          className="frame-child128"
+                          className="frame-child91"
                           loading="lazy"
                           alt=""
                           src="/star-111.svg"
                         />
                       </div>
-                      <div className="reviews-frame">
-                        <div className="reviews30">4.9 (374 Reviews)</div>
+                      <div className="reviews-wrapper">
+                        <div className="reviews28">4.9 (374 Reviews)</div>
                       </div>
                     </div>
                     <div className="price-placeholders-parent">
                       <b className="price-placeholders">$ 2.50</b>
                       <div className="price-placeholder1">
-                        <div className="parent6">
-                          <div className="div48">$ 4.50</div>
+                        <div className="parent4">
+                          <div className="div41">$ 4.50</div>
                           <div className="product-separator" />
                         </div>
                       </div>

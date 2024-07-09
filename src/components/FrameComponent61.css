@@ -1,0 +1,279 @@
+.benefits-header-child {
+  height: 450px;
+  width: 1919px;
+  position: relative;
+  background-color: var(--color-powderblue);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.frame-child57 {
+  height: 179.3px;
+  width: 192px;
+  position: relative;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  display: none;
+}
+.p {
+  margin: 0;
+  font-weight: 800;
+}
+.customers1 {
+  margin: 0;
+  font-size: var(--font-size-4xl);
+  font-weight: 300;
+}
+.customers {
+  height: 82px;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.customer-benefit,
+.rectangle-parent115 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent115 {
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  flex-direction: row;
+  padding: var(--padding-27xl) var(--padding-10xl) var(--padding-32xl-3);
+  z-index: 2;
+}
+.customer-benefit {
+  height: 273.9px;
+  flex-direction: column;
+  padding: 0 var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+}
+.customer-benefit-icon-child {
+  align-self: stretch;
+  height: 93.6px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.customer-benefit-icon {
+  height: 179.3px;
+  width: 226.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefits-icon-list {
+  height: 94.6px;
+  width: 226.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: -214.9px;
+  z-index: 1;
+}
+.frame-child58 {
+  height: 179.3px;
+  width: 192px;
+  position: relative;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  display: none;
+}
+.p1 {
+  margin: 0;
+  font-weight: 800;
+}
+.sellers1 {
+  margin: 0;
+  font-size: var(--font-size-4xl);
+  font-weight: 300;
+}
+.sellers {
+  height: 82px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.benefits-icons,
+.rectangle-parent116 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent116 {
+  flex: 1;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  padding: var(--padding-26xl-4) var(--padding-9xl) var(--padding-32xl-9)
+    var(--padding-10xl);
+  z-index: 2;
+}
+.benefits-icons {
+  width: 192px;
+  margin: 0 !important;
+  position: absolute;
+  top: 182.6px;
+  left: 666.7px;
+}
+.frame-child59 {
+  height: 179.3px;
+  width: 192px;
+  position: relative;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  display: none;
+}
+.p2 {
+  margin: 0;
+  font-weight: 800;
+}
+.orders1 {
+  margin: 0;
+  font-size: var(--font-size-4xl);
+  font-weight: 300;
+}
+.orders {
+  height: 82px;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.rectangle-parent117 {
+  margin: 0 !important;
+  position: absolute;
+  top: 88px;
+  right: 659.7px;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-35xl) var(--padding-lg) var(--padding-24xl-3);
+  z-index: 2;
+}
+.benefits-icons-child {
+  height: 104.5px;
+  width: 226.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: -217px;
+  z-index: 1;
+}
+.frame-child60 {
+  height: 179.3px;
+  width: 192px;
+  position: relative;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  display: none;
+}
+.p3 {
+  margin: 0;
+  font-weight: 800;
+}
+.products1 {
+  margin: 0;
+  font-size: var(--font-size-4xl);
+  font-weight: 300;
+}
+.products {
+  height: 82px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.benefits-icons1,
+.rectangle-parent118 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent118 {
+  flex: 1;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  padding: var(--padding-30xl-4) var(--padding-lg) var(--padding-28xl-9)
+    var(--padding-lgi);
+  z-index: 2;
+}
+.benefits-icons1 {
+  width: 192px;
+  position: relative;
+}
+.benefits-header,
+.benefits-header-wrapper {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.benefits-header {
+  flex: 1;
+  background-color: var(--color-powderblue);
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-69xl) var(--padding-240xl) var(--padding-69xl-1)
+    var(--padding-247xl);
+  position: relative;
+  gap: var(--gap-xl);
+}
+.benefits-header-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-59xl-1) var(--padding-12xs);
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color);
+  font-family: var(--sm-medium);
+}
+@media screen and (max-width: 1325px) {
+  .benefits-header {
+    padding-left: var(--padding-114xl);
+    padding-right: var(--padding-110xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .benefits-header {
+    padding-left: var(--padding-47xl);
+    padding-right: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .benefits-header-wrapper {
+    padding-bottom: var(--padding-32xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .customers,
+  .orders,
+  .products,
+  .sellers {
+    font-size: var(--font-size-lg);
+  }
+  .benefits-header {
+    padding-top: var(--padding-38xl);
+    padding-bottom: var(--padding-38xl);
+    box-sizing: border-box;
+  }
+}

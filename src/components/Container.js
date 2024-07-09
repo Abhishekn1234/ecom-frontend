@@ -1,5 +1,5 @@
 import AddressPaymentLabels from "./AddressPaymentLabels";
-import FrameComponent5 from "./FrameComponent5";
+import FrameComponent5 from "./FrameComponent52";
 import PropTypes from "prop-types";
 import "./Container.css";
 
@@ -57,8 +57,8 @@ const Container = ({ className = "" }) => {
                     <p className="blank-line3">&nbsp;</p>
                     <p className="blank-line4">&nbsp;</p>
                   </div>
-                  <div className="rectangle-parent163">
-                    <div className="frame-child118" />
+                  <div className="rectangle-parent140">
+                    <div className="frame-child81" />
                     <div className="choose-an-option">Choose an option</div>
                   </div>
                 </div>

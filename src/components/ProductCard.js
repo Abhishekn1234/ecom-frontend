@@ -17,8 +17,8 @@ const ProductCard = ({
   }, [propFlex, propMinWidth, propAlignSelf]);
 
   return (
-    <div className={`product-card2 ${className}`} style={productCardStyle}>
-      <div className="cement-bags-2520">Cement Bags (25 kg)</div>
+    <div className={`product-card ${className}`} style={productCardStyle}>
+      <div className="cement-bags-2519">Cement Bags (25 kg)</div>
       <div className="product-rating">
         <div className="rating-stars">
           <div className="star-icons">
@@ -34,7 +34,7 @@ const ProductCard = ({
               />
             </div>
             <div className="review-count">
-              <div className="reviews29">4.9 (374 Reviews)</div>
+              <div className="reviews27">4.9 (374 Reviews)</div>
             </div>
           </div>
           <div className="price-container">
