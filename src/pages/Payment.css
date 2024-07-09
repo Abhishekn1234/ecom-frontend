@@ -1,0 +1,38 @@
+.container1,
+.payment {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.container1 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 87px;
+  max-width: 100%;
+}
+.payment {
+  width: 100%;
+  position: relative;
+  background-color: var(--neutral-white);
+  overflow: hidden;
+  align-items: flex-start;
+  gap: 172px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .container1 {
+    gap: var(--gap-24xl);
+  }
+  .payment {
+    gap: 86px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .container1 {
+    gap: var(--gap-3xl);
+  }
+  .payment {
+    gap: var(--gap-24xl);
+  }
+}
