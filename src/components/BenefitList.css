@@ -27,7 +27,7 @@
   height: 93.6px;
 }
 .benefit-items,
-.frame-child65 {
+.frame-child125 {
   height: 179.3px;
   width: 192px;
   box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
@@ -49,11 +49,11 @@
   color: var(--color);
   z-index: 2;
 }
-.frame-child65 {
+.frame-child125 {
   position: relative;
   display: none;
 }
-.p4 {
+.p3 {
   margin: 0;
   font-weight: 800;
 }
@@ -69,14 +69,14 @@
   display: inline-block;
   z-index: 3;
 }
-.frame-child66,
-.rectangle-parent122 {
+.frame-child126,
+.rectangle-parent167 {
   width: 192px;
   box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
   border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
   background-color: var(--neutral-white);
 }
-.rectangle-parent122 {
+.rectangle-parent167 {
   position: absolute;
   top: 182.6px;
   left: 666.7px;
@@ -89,12 +89,12 @@
   box-sizing: border-box;
   z-index: 2;
 }
-.frame-child66 {
+.frame-child126 {
   height: 179.3px;
   position: relative;
   display: none;
 }
-.p5 {
+.p4 {
   margin: 0;
   font-weight: 800;
 }
@@ -110,14 +110,14 @@
   display: inline-block;
   z-index: 3;
 }
-.frame-child67,
-.rectangle-parent123 {
+.frame-child127,
+.rectangle-parent168 {
   width: 192px;
   box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
   border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
   background-color: var(--neutral-white);
 }
-.rectangle-parent123 {
+.rectangle-parent168 {
   position: absolute;
   top: 88px;
   left: 1067.3px;
@@ -129,28 +129,28 @@
   box-sizing: border-box;
   z-index: 2;
 }
-.frame-child67 {
+.frame-child127 {
   height: 179.3px;
   position: relative;
   display: none;
 }
-.p6 {
+.p5 {
   margin: 0;
   font-weight: 800;
 }
-.products3 {
+.products1 {
   margin: 0;
   font-size: var(--font-size-4xl);
   font-weight: 300;
 }
-.products2 {
+.products {
   height: 82px;
   flex: 1;
   position: relative;
   display: inline-block;
   z-index: 3;
 }
-.rectangle-parent124 {
+.rectangle-parent169 {
   position: absolute;
   top: 182.6px;
   left: 1468px;
@@ -182,7 +182,7 @@
 }
 @media screen and (max-width: 450px) {
   .orders2,
-  .products2,
+  .products,
   .sellers2 {
     font-size: var(--font-size-lg);
   }

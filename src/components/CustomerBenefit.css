@@ -1,0 +1,71 @@
+.benefits-icon-list {
+  height: 94.6px;
+  width: 226.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: -214.9px;
+  z-index: 1;
+}
+.frame-child118 {
+  height: 179.3px;
+  width: 192px;
+  position: relative;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  display: none;
+}
+.p {
+  margin: 0;
+  font-weight: 800;
+}
+.sellers1 {
+  margin: 0;
+  font-size: var(--font-size-4xl);
+  font-weight: 300;
+}
+.sellers {
+  height: 82px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.rectangle-parent160 {
+  flex: 1;
+  box-shadow: 0 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--neutral-white);
+  flex-direction: row;
+  padding: var(--padding-26xl-4) var(--padding-9xl) var(--padding-32xl-9)
+    var(--padding-10xl);
+  z-index: 2;
+}
+.benefits-icons,
+.customer-benefit,
+.rectangle-parent160 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefits-icons {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.customer-benefit {
+  width: 192px;
+  flex-direction: column;
+  padding: var(--padding-75xl-6) 0 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color);
+  font-family: var(--sm-medium);
+}
+@media screen and (max-width: 450px) {
+  .sellers {
+    font-size: var(--font-size-lg);
+  }
+}

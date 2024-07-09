@@ -1,4 +1,4 @@
-.frame-child63 {
+.frame-child123 {
   width: 1920px;
   height: 451px;
   position: relative;
@@ -6,14 +6,14 @@
   display: none;
   max-width: 100%;
 }
-.screenshot-94-removebg-previ-icon9 {
+.screenshot-94-removebg-previ-icon15 {
   height: 45px;
   width: 51px;
   position: relative;
   object-fit: cover;
   z-index: 1;
 }
-.screenshot-95-removebg-previ-icon3 {
+.screenshot-95-removebg-previ-icon4 {
   align-self: stretch;
   height: 34px;
   position: relative;
@@ -39,9 +39,9 @@
   justify-content: flex-start;
   gap: var(--gap-11xs);
 }
-.about-bricksnmixcom1 {
+.about-bricksnmixcom2 {
   position: relative;
-  line-height: 10px;
+  line-height: 11px;
   font-weight: 500;
   z-index: 1;
 }
@@ -62,10 +62,10 @@
   padding: 0 0 var(--padding-smi);
   gap: var(--gap-xl);
 }
-.about-us2 {
-  height: 30px;
+.about-us3 {
   position: relative;
   display: inline-block;
+  min-width: 93px;
   z-index: 1;
 }
 .about-us-title {
@@ -75,13 +75,13 @@
   justify-content: flex-start;
   padding: 0 var(--padding-11xs);
 }
-.bricksnmix-transforming-online1,
-.by-fast-delivery1,
-.shopping1,
-.to-enrich-your1 {
+.bricksnmix-transforming-online2,
+.by-fast-delivery2,
+.shopping2,
+.to-enrich-your2 {
   margin: 0;
 }
-.bricksnmix-transforming-online-container1 {
+.bricksnmix-transforming-online-container2 {
   position: relative;
   font-size: var(--font-size-mini);
   color: var(--color-gray-200);
@@ -96,31 +96,29 @@
   min-width: 510px;
   max-width: 100%;
 }
-.customer-support1 {
-  width: 238px;
+.customer-support3 {
   position: relative;
-  display: inline-block;
   z-index: 1;
 }
-.bricksnmix-support-team1,
-.high-priority-to1,
-.our-customers-we1 {
+.bricksnmix-support-team2,
+.high-priority-to2,
+.our-customers-we2 {
   margin: 0;
 }
-.bricksnmix-support-team-container1 {
+.bricksnmix-support-team-container2 {
   position: relative;
   font-size: var(--font-size-mini);
   color: var(--color-gray-200);
   z-index: 1;
 }
 .about-us-content,
-.support {
+.support1 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   max-width: 100%;
 }
-.support {
+.support1 {
   flex: 1;
   flex-direction: column;
   gap: var(--gap-smi);
@@ -131,11 +129,9 @@
   flex-direction: row;
   gap: var(--gap-115xl);
 }
-.connect-with-us1 {
-  height: 30px;
+.connect-with-us2 {
   flex: 1;
   position: relative;
-  display: inline-block;
   z-index: 1;
 }
 .social-title {
@@ -149,25 +145,25 @@
 .social-icon-list,
 .social-icon-list1,
 .social-icon-list2,
-.twitter-rounded-svgrepo-com-icon1 {
+.twitter-rounded-svgrepo-com-icon2 {
   height: 30px;
   width: 30px;
   position: relative;
   min-height: 30px;
   z-index: 1;
 }
-.twitter-rounded-svgrepo-com-icon1 {
+.twitter-rounded-svgrepo-com-icon2 {
   overflow: hidden;
   flex-shrink: 0;
 }
-.social-icons {
+.social-icons1 {
   flex-direction: row;
   justify-content: flex-start;
   gap: var(--gap-5xl);
 }
-.about-us1,
+.about-us2,
 .social,
-.social-icons {
+.social-icons1 {
   display: flex;
   align-items: flex-start;
 }
@@ -177,7 +173,7 @@
   justify-content: flex-start;
   gap: var(--gap-smi);
 }
-.about-us1 {
+.about-us2 {
   align-self: stretch;
   flex-direction: row;
   justify-content: space-between;
@@ -188,10 +184,8 @@
   font-size: var(--xl-semibold-size);
   color: var(--neutral-white);
 }
-.become-a-seller1 {
-  height: 30px;
+.become-a-seller2 {
   position: relative;
-  display: inline-block;
   z-index: 1;
 }
 .login-options-child {
@@ -202,13 +196,15 @@
   background-color: var(--color-gray-100);
   display: none;
 }
-.register-as-seller2 {
+.register-as-seller3 {
   position: relative;
   font-size: var(--font-size-mini);
   font-weight: 500;
   font-family: var(--sm-medium);
   color: var(--color-seagreen-100);
   text-align: left;
+  display: inline-block;
+  min-width: 129px;
   z-index: 2;
 }
 .login-options,
@@ -240,13 +236,15 @@
   position: relative;
   display: none;
 }
-.login-as-seller1 {
+.login-as-seller2 {
   position: relative;
   font-size: var(--font-size-mini);
   font-weight: 500;
   font-family: var(--sm-medium);
   color: var(--color-seagreen-100);
   text-align: left;
+  display: inline-block;
+  min-width: 108px;
   z-index: 2;
 }
 .login-options1,
@@ -293,12 +291,12 @@
   font-size: var(--xl-semibold-size);
   color: var(--neutral-white);
 }
-.copyright-2024-bricksnmixcom1 {
+.copyright-2024-bricksnmixcom2 {
   position: relative;
   z-index: 1;
 }
-.copyright,
-.group-footer {
+.copyright1,
+.rectangle-parent165 {
   align-self: stretch;
   display: flex;
   flex-direction: row;
@@ -306,7 +304,7 @@
   justify-content: center;
   padding: 0 0 0 var(--padding-75xl);
 }
-.group-footer {
+.rectangle-parent165 {
   background-color: var(--color-gray-600);
   flex-direction: column;
   justify-content: flex-start;
@@ -321,7 +319,7 @@
   font-family: var(--sm-medium);
 }
 @media screen and (max-width: 1700px) {
-  .about-us1 {
+  .about-us2 {
     flex-wrap: wrap;
   }
 }
@@ -337,7 +335,7 @@
     flex-wrap: wrap;
     gap: var(--gap-48xl);
   }
-  .group-footer {
+  .rectangle-parent165 {
     padding-left: var(--padding-47xl);
     padding-right: var(--padding-40xl);
     box-sizing: border-box;
@@ -345,32 +343,32 @@
 }
 @media screen and (max-width: 900px) {
   .about-us-title-parent,
-  .support {
+  .support1 {
     min-width: 100%;
   }
   .about-us-content {
     gap: var(--gap-14xl);
   }
-  .copyright,
-  .group-footer {
+  .copyright1,
+  .rectangle-parent165 {
     padding-left: var(--padding-28xl);
     box-sizing: border-box;
   }
-  .group-footer {
+  .rectangle-parent165 {
     padding-left: var(--padding-14xl);
     padding-right: var(--padding-10xl);
   }
 }
 @media screen and (max-width: 450px) {
-  .about-us2,
-  .customer-support1 {
+  .about-us3,
+  .customer-support3 {
     font-size: var(--base-regular-size);
   }
   .about-us-content {
     gap: var(--gap-mid);
   }
-  .become-a-seller1,
-  .connect-with-us1 {
+  .become-a-seller2,
+  .connect-with-us2 {
     font-size: var(--base-regular-size);
   }
   .login-options,
@@ -380,7 +378,7 @@
   .seller-login {
     flex-wrap: wrap;
   }
-  .group-footer {
+  .rectangle-parent165 {
     padding-top: var(--padding-3xl);
     padding-bottom: var(--padding-4xl);
     box-sizing: border-box;

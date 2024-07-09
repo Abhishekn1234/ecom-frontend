@@ -6,14 +6,14 @@
   background-color: var(--neutral-white);
   display: none;
 }
-.screenshot-94-removebg-previ-icon10 {
+.screenshot-94-removebg-previ-icon16 {
   height: 45px;
   width: 51px;
   position: relative;
   object-fit: cover;
   z-index: 1;
 }
-.logo-1-icon6 {
+.logo-1-icon11 {
   align-self: stretch;
   height: 37px;
   position: relative;
@@ -47,7 +47,7 @@
   box-sizing: border-box;
   max-width: 100%;
 }
-.frame-child64 {
+.frame-child124 {
   height: 52px;
   width: 597px;
   position: relative;
@@ -56,7 +56,7 @@
   display: none;
   max-width: 100%;
 }
-.cement2 {
+.cement4 {
   text-decoration: none;
   position: relative;
   color: inherit;
@@ -70,7 +70,7 @@
   position: relative;
   z-index: 1;
 }
-.rectangle-parent121,
+.rectangle-parent166,
 .slogan-icon {
   display: flex;
   flex-direction: column;
@@ -78,7 +78,7 @@
   justify-content: flex-start;
   padding: var(--padding-10xs) 0 0;
 }
-.rectangle-parent121 {
+.rectangle-parent166 {
   width: 597px;
   border-radius: var(--br-3xs);
   background-color: var(--color-whitesmoke-200);
@@ -91,24 +91,24 @@
   max-width: 100%;
   z-index: 1;
 }
-.account6,
-.icon9 {
+.account8,
+.icon13 {
   position: relative;
   z-index: 1;
 }
-.icon9 {
+.icon13 {
   height: 39px;
   width: 39px;
   min-height: 39px;
 }
-.account6 {
+.account8 {
   text-decoration: none;
   font-weight: 500;
   color: inherit;
   display: inline-block;
   min-width: 93px;
 }
-.parent3,
+.parent6,
 .user-account {
   display: flex;
   align-items: flex-start;
@@ -118,11 +118,11 @@
   flex-direction: column;
   padding: var(--padding-8xs-3) 0 0;
 }
-.parent3 {
+.parent6 {
   flex-direction: row;
   gap: var(--gap-2xs);
 }
-.cart-shopping-svgrepo-com-1-icon6 {
+.cart-shopping-svgrepo-com-1-icon8 {
   height: 40px;
   width: 40px;
   position: relative;
@@ -130,7 +130,7 @@
   flex-shrink: 0;
   z-index: 1;
 }
-.cart7 {
+.cart10 {
   text-decoration: none;
   position: relative;
   font-weight: 500;

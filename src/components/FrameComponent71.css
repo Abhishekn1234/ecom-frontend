@@ -10,17 +10,15 @@
 }
 .be1,
 .our1,
-.seller3 {
+.seller4 {
   margin: 0;
 }
 .be-our-seller-container1 {
   margin: 0;
-  height: 288px;
   position: relative;
   font-size: inherit;
   font-weight: 700;
   font-family: inherit;
-  display: inline-block;
   z-index: 3;
 }
 .seller-call-to-action {
@@ -42,7 +40,7 @@
 .register1 {
   position: relative;
   font-size: var(--font-size-13xl);
-  line-height: 10px;
+  line-height: 11px;
   font-weight: 600;
   font-family: var(--sm-medium);
   color: var(--neutral-white);
@@ -92,12 +90,12 @@
 }
 .h2 {
   margin: 0;
-  height: 48px;
   position: relative;
   font-size: inherit;
   font-weight: 500;
   font-family: inherit;
   display: inline-block;
+  min-width: 19px;
 }
 .hero-content-parent,
 .hero-description {

@@ -10,7 +10,6 @@
   background-color: var(--neutral-white);
   display: none;
   max-width: 100%;
-  z-index: 1;
 }
 .iconlyboldchart {
   height: 76.5px;
@@ -46,16 +45,13 @@
 }
 .lorem-ipsum-dolor6 {
   align-self: stretch;
-  height: 187px;
   position: relative;
   font-size: var(--font-size-lg);
   line-height: 28.5px;
-  display: inline-block;
-  flex-shrink: 0;
   z-index: 1;
 }
 .card-one-description,
-.frame-parent7 {
+.frame-parent21 {
   align-self: stretch;
   display: flex;
   flex-direction: column;
@@ -63,10 +59,10 @@
   justify-content: flex-start;
   gap: var(--gap-2xl);
 }
-.frame-parent7 {
+.frame-parent21 {
   gap: var(--gap-6xl-5);
 }
-.frame-child61 {
+.frame-child121 {
   height: 49px;
   width: 178.6px;
   position: relative;
@@ -77,20 +73,22 @@
 .learn-more1 {
   position: relative;
   font-size: var(--font-size-lg);
-  line-height: 28.5px;
+  line-height: 29px;
   font-weight: 500;
   font-family: var(--sm-medium);
   color: var(--neutral-white);
   text-align: left;
+  display: inline-block;
+  min-width: 106px;
   z-index: 1;
 }
 .card-row-one-inner,
-.rectangle-parent119 {
+.rectangle-parent163 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
 }
-.rectangle-parent119 {
+.rectangle-parent163 {
   cursor: pointer;
   border: 0;
   padding: var(--padding-3xs) var(--padding-17xl);
@@ -98,16 +96,15 @@
   border-radius: var(--br-3xs);
   justify-content: flex-start;
   white-space: nowrap;
-  z-index: 2;
+  z-index: 1;
 }
-.rectangle-parent119:hover {
+.rectangle-parent163:hover {
   background-color: var(--color-orangered-800);
 }
 .card-row-one-inner {
   align-self: stretch;
   justify-content: flex-end;
   padding: 0 var(--padding-40xl) 0 var(--padding-41xl);
-  margin-top: -3px;
 }
 .card-row-one {
   width: 388px;
@@ -123,6 +120,7 @@
   justify-content: flex-start;
   padding: var(--padding-12xl) var(--padding-26xl) var(--padding-26xl);
   box-sizing: border-box;
+  gap: var(--gap-22xl);
   min-width: 388px;
   max-width: 100%;
   text-align: center;
@@ -157,5 +155,8 @@
     padding-left: var(--padding-xl);
     padding-right: var(--padding-xl);
     box-sizing: border-box;
+  }
+  .card-row-one {
+    gap: var(--gap-xl);
   }
 }

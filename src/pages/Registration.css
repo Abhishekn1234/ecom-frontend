@@ -14,8 +14,8 @@
   background-color: var(--color-gray-1600);
   z-index: 1;
 }
-.screenshot-94-removebg-previ-icon1,
-.screenshot-95-removebg-previ-icon {
+.screenshot-94-removebg-previ-icon5,
+.screenshot-95-removebg-previ-icon1 {
   position: absolute;
   top: 46px;
   left: 76px;
@@ -24,7 +24,7 @@
   object-fit: contain;
   z-index: 2;
 }
-.screenshot-95-removebg-previ-icon {
+.screenshot-95-removebg-previ-icon1 {
   top: 51px;
   left: 131px;
   width: 188px;

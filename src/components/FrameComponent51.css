@@ -8,22 +8,18 @@
 .what-we-do-container {
   margin: 0;
   align-self: stretch;
-  height: 37.4px;
   position: relative;
   font-size: inherit;
   letter-spacing: -0.01em;
   line-height: 106.3%;
-  display: inline-block;
-  flex-shrink: 0;
-  z-index: 1;
   font-family: inherit;
 }
-.services-icon-child {
+.card-one-icon-child {
   height: 10px;
   width: 180px;
   position: relative;
 }
-.services-icon {
+.card-one-icon {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -36,7 +32,7 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-start;
-  gap: var(--gap-28xl-5);
+  gap: var(--gap-mid);
   max-width: 100%;
 }
 .services-header {
@@ -61,38 +57,17 @@
   background-color: var(--neutral-white);
   display: none;
   max-width: 100%;
-  z-index: 1;
-}
-.iconlyboldactivity {
-  height: 76.5px;
-  width: 76.5px;
-  position: relative;
-  z-index: 1;
-}
-.card-one-icon {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  z-index: 0;
 }
 .increase-sales {
   margin: 0;
+  flex: 1;
   position: relative;
   font-size: inherit;
-  line-height: 28.5px;
+  line-height: 29px;
   font-weight: 700;
   font-family: inherit;
   z-index: 1;
-}
-.card-one-content {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-24xl-5);
 }
 .card-column-one {
   align-self: stretch;
@@ -100,20 +75,25 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 var(--padding-2xs) var(--padding-34xl) var(--padding-sm);
+  padding: 0 var(--padding-2xs) var(--padding-4xs) var(--padding-sm);
+}
+.iconlyboldactivity {
+  width: 76.5px;
+  height: 76.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: 31px;
+  right: 155.5px;
+  z-index: 1;
 }
 .lorem-ipsum-dolor7 {
   align-self: stretch;
-  height: 187px;
   position: relative;
   font-size: var(--font-size-lg);
   line-height: 28.5px;
-  display: inline-block;
-  flex-shrink: 0;
   z-index: 1;
-  margin-top: -3px;
 }
-.frame-child62 {
+.frame-child122 {
   height: 49px;
   width: 178.6px;
   position: relative;
@@ -124,20 +104,22 @@
 .learn-more2 {
   position: relative;
   font-size: var(--font-size-lg);
-  line-height: 28.5px;
+  line-height: 29px;
   font-weight: 500;
   font-family: var(--sm-medium);
   color: var(--neutral-white);
   text-align: left;
+  display: inline-block;
+  min-width: 106px;
   z-index: 1;
 }
 .card-three-content,
-.rectangle-parent120 {
+.rectangle-parent164 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
 }
-.rectangle-parent120 {
+.rectangle-parent164 {
   cursor: pointer;
   border: 0;
   padding: var(--padding-3xs) var(--padding-17xl);
@@ -145,16 +127,15 @@
   border-radius: var(--br-3xs);
   justify-content: flex-start;
   white-space: nowrap;
-  z-index: 2;
+  z-index: 1;
 }
-.rectangle-parent120:hover {
+.rectangle-parent164:hover {
   background-color: var(--color-orangered-800);
 }
 .card-three-content {
   align-self: stretch;
   justify-content: flex-end;
   padding: 0 var(--padding-40xl) 0 var(--padding-41xl);
-  margin-top: -3px;
 }
 .card-row-one1 {
   width: 388px;
@@ -168,8 +149,10 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-start;
-  padding: var(--padding-12xl) var(--padding-26xl) var(--padding-26xl);
+  padding: var(--padding-132xl) var(--padding-26xl) var(--padding-26xl);
   box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-22xl);
   min-width: 388px;
   max-width: 100%;
 }
@@ -219,15 +202,12 @@
     font-size: var(--font-size-19xl);
     line-height: 41px;
   }
-  .services-title {
-    gap: var(--gap-5xl);
-  }
   .increase-sales {
     font-size: var(--font-size-10xl);
     line-height: 23px;
   }
   .card-row-one1 {
-    padding-top: var(--padding-xl);
+    padding-top: var(--padding-79xl);
     padding-bottom: var(--padding-10xl);
     box-sizing: border-box;
     min-width: 100%;
@@ -245,7 +225,7 @@
     font-size: var(--font-size-10xl);
     line-height: 31px;
   }
-  .services-icon {
+  .card-one-icon {
     padding-left: var(--padding-xl);
     padding-right: var(--padding-xl);
     box-sizing: border-box;
@@ -254,13 +234,13 @@
     font-size: var(--font-size-3xl);
     line-height: 17px;
   }
-  .card-one-content {
-    gap: var(--gap-3xl);
-  }
   .card-row-one1,
   .card-three-content {
     padding-left: var(--padding-xl);
     padding-right: var(--padding-xl);
     box-sizing: border-box;
+  }
+  .card-row-one1 {
+    gap: var(--gap-xl);
   }
 }
